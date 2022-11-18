@@ -108,7 +108,7 @@ global.wm3 = 'ADE DOZZSSS MD | By ADE'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `ADE DOZZSSS MD | ʙʏ ${global.nameown}`
-global.author = 'AdDE' 
+global.author = 'ADE' 
 global.packname = 'ADE DOZZSSS'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Maret 3 2023'
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickauth = `ADE`
 
 global.multiplier = 38 // The higher, The harder levelup
 
